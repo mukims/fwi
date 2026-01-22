@@ -1,4 +1,4 @@
-# Inverse Problems in Disordered Systems (PhD Thesis)
+# Inverse Problems in Disordered Systems
 
 Author: Shardul S. Mukim  
 Institution: School of Physics, Trinity College Dublin  
