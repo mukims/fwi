@@ -1,0 +1,56 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data / binaries
+*.pdf
+*.csv
+*.dat
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.mat
+
+# Figures
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.eps
+*.tif
+*.tiff
+*.gif
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Project-level folders with large outputs
+/data/
+/figures/
+/pdfs/
+/archives/
+/presentations/
+
+# Reports
+cleanup_report.txt
+projects/cleanup_report.txt
