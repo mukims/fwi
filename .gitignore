@@ -16,15 +16,8 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large data / binaries
+# Large binaries (keep data files tracked)
 *.pdf
-*.csv
-*.dat
-*.h5
-*.hdf5
-*.npz
-*.npy
-*.mat
 
 # Figures
 *.png
@@ -45,7 +38,6 @@ venv/
 *.rar
 
 # Project-level folders with large outputs
-/data/
 /figures/
 /pdfs/
 /archives/
